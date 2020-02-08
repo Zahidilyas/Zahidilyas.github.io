@@ -1992,3 +1992,6 @@ button,
     margin: 1em 0 0 0; }
     #footer .copyright li:first-child {
       margin-top: 0; } }
+section#intro {
+  height: 80vh;
+  padding: 0px !important; }

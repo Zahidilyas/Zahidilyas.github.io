@@ -2,3 +2,29 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @import "jekyll-theme-prologue";
+
+// .strokeme
+// {
+//     color: white;
+//     text-shadow:
+//     -1px -1px 0 #000,
+//     1px -1px 0 #000,
+//     -1px 1px 0 #000,
+//     1px 1px 0 #000;  
+// }
+
+section#intro{
+    height: 80vh;
+    padding: 0px !important;
+}
+// div.container{
+//     margin-top: 38vh ;
+//     color: white;
+//     padding: 40px;
+//     background-color: rgba(0, 0, 0, 0.2);
+//     box-sizing: border-box;
+//     border-radius: 34px;
+// }
+// h2.alt {
+//     font-weight: 800;
+// }
